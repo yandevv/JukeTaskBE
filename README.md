@@ -16,8 +16,8 @@
   - Create a migration to tasks table ✅
 
 - Controller and Routes:
-  - Create a TaskController controller with methods to list, create, update and delete tasks.
-  - Configure nominated routes to each one operation.
+  - Create a TaskController controller with methods to list, create, update and delete tasks. ✅
+  - Configure nominated routes to each one operation. ✅
 
 - Authentication:
   - Use the Laravel's default authentication system.
