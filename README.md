@@ -12,8 +12,8 @@
   - Configure database and necessary credentials at .env file ✅
 
 - Migration and Model:
-  - Create a Task model with the necessary fields (id, title, description, user_id).
-  - Create a migration to tasks table
+  - Create a Task model with the necessary fields (id, title, description, user_id). ✅
+  - Create a migration to tasks table ✅
 
 - Controller and Routes:
   - Create a TaskController controller with methods to list, create, update and delete tasks.
