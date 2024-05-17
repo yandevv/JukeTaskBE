@@ -30,6 +30,21 @@
   - Consider responsibilities's separation using Service Classes or Repositories
 
 - Firebase Integration:
-  - Utilize the Firebase's library to notify the front-end with tasks changes (optional)
+  - Use the Firebase's library to notify the front-end with tasks changes (optional)
 
 ## Installation and Setup
+
+[Describe install and project setup steps]
+[PHP Installation]
+[Composer Installation]
+[MySQL Installation]
+
+## Testing Plan:
+### Happy Path:
+- Test tasks table migration
+
+### Happy path variations
+
+### Edge Cases
+
+### Complex Cases
